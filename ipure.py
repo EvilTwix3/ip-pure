@@ -65,5 +65,6 @@ table.add_row(browser, "browser")
 
 consle = Console()
 consle.print(table)
-
 d.quit()
+print ("your ip->>",ipv4)
+print ("our  ip->>","https://github.com/EvilTwix3/ip-pure")
