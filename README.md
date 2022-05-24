@@ -10,3 +10,4 @@ work with selenium {firfox}
 -Linux
 
 you put it in path and run it by simple cmd in anytime :)
+UPDATE-COMMING... script so simple and beta srry
